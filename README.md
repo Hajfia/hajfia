@@ -48,7 +48,6 @@
 
 ## Connect with me:
 <div align="center">
-    [![Linkedin Badge](https://img.shields.io/badge/-Sophia%20Englund-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-englund)](https://www.linkedin.com/in/sophia-englund/)
-    [![Gmail Badge](https://img.shields.io/badge/-englundsophia@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:englundsophia@gmail.com)] (mailto:englundsophia@gmail.com)
-    [![Website Badge](https://img.shields.io/badge/-hajfia.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://hajfia.netlify.app)](https://hajfia.netlify.com)
+    <a href="https://www.linkedin.com/in/sophia-englund/" target="_blank"><img src="https://img.shields.io/badge/-Sophia%20Englund-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:englundsophia@gmail.com"><img src="https://img.shields.io/badge/-englundsophia@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
